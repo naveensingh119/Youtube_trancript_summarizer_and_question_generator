@@ -1,0 +1,17 @@
+{'text': 'by all you know I thought it would get', 'start': 0.74, 'duration': 30.459}
+{'text': 'you can you say I love you in Arabic um', 'start': 7.649, 'duration': 26.671}
+{'text': 'is in here I just want to say hello to', 'start': 31.199, 'duration': 4.351}
+{'text': 'everybody', 'start': 34.32, 'duration': 6.76}
+{'text': '[Music]', 'start': 35.55, 'duration': 5.53}
+{'text': "she'll make your favorite meal which is", 'start': 41.87, 'duration': 4.9}
+{'text': "I like I don't know how familiar you are", 'start': 44.01, 'duration': 7.26}
+{'text': "with Indian food here but samosas it's", 'start': 46.77, 'duration': 6.96}
+{'text': 'like a pastry like a triangle pastry', 'start': 51.27, 'duration': 6.17}
+{'text': "like filled you like mince me and it's", 'start': 53.73, 'duration': 3.71}
+{'text': 'my favorite bollywood song is a song', 'start': 59.329, 'duration': 4.991}
+{'text': 'from a film called bill sir', 'start': 62.609, 'duration': 5.221}
+{'text': "and it's like seen on a train the song's", 'start': 64.32, 'duration': 7.409}
+{'text': 'called chia-chia his film called gob you', 'start': 67.83, 'duration': 5.87}
+{'text': 'should go beat up probably just because', 'start': 71.729, 'duration': 4.291}
+{'text': "it's the film that I watched the mouse", 'start': 73.7, 'duration': 7.349}
+{'text': 'as a child some great music in it', 'start': 76.02, 'duration': 5.029}
