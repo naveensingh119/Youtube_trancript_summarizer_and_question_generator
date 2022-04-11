@@ -1,1 +1,21 @@
+<HTML>
+    <HEAD>
+       <TITLE>Getting text</TITLE>
+    </HEAD>
+    <BODY>
+        <h1>Enter the Youtube Video Id for which you want to get the subtitle text </h1>
+        <form action="/home" method="POST">
+            <label for="query_string">Enter Youtube Video link</label>
+            <input name="query_string" type="text">
+            <input id="submit" type="submit">
+        </form>
+       <P>
+           <ul>
+               {%if ans_string != None%}
+               <li>{{ans_string}}</li>
+               {% endif %}
 
+           </ul>
+        </P>
+    </BODY>
+ </HTML>
